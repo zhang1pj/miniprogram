@@ -1,2 +1,4 @@
 <!--miniprogram/page/home/home.wxml-->
 <text class="title">hello world</text>
+<view>测试tag</view>
+<view>git上传测试</view>
